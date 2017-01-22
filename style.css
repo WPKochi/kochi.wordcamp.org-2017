@@ -4,7 +4,7 @@ a.sidebar-tickets {
 	padding: .5rem 1rem;
 	font-size: 1.4rem;
 	color: #fff !important; 
-	background: #006f44;
+	background: #03c379;
 	border-radius: 3rem;
 }
 
@@ -21,8 +21,7 @@ a.sidebar-tickets:hover {
 
 .main-navigation .primary-menu > li.wck-tickets {
 	padding: 0 1rem;
-	background: #006f44;
-	border-radius: 2rem;
+	background: #03c379;
 }
 
 .main-navigation .primary-menu > li.wck-tickets:before {
