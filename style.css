@@ -31,8 +31,7 @@ a.sidebar-tickets:hover {
 	margin-right: .5rem;
 }
 
-li.wck-tickets a:hover,
-li.wck-tickets .current-menu-item > a,
+li.wck-tickets a:hover
 {
 		background-color: #006f44;
 		padding: 0 1rem;
