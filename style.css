@@ -1,0 +1,20 @@
+a.sidebar-tickets {
+	text-decoration: none;
+	box-shadow: none;
+	padding: .5rem 1rem;
+	font-size: 1.4rem;
+	color: #fff;
+	background: #ef7c00;
+	border-radius: 3rem;
+}
+
+a.sidebar-tickets:before {
+	margin-right: 1rem;
+	font-size: 1.8rem;
+	line-height: 2rem;
+}
+
+a.sidebar-tickets:hover {
+	background: #ff9900 none;
+	box-shadow: #232323 1px 1px 2px;
+}
