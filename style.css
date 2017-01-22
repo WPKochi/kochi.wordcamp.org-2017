@@ -21,6 +21,8 @@ a.sidebar-tickets:hover {
 
 .main-navigation .primary-menu > li.wck-tickets {
 	background: #03c379;
+	padding: 0 1rem;
+
 }
 
 .main-navigation .primary-menu > li.wck-tickets:before {
