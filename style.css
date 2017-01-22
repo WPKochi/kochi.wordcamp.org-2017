@@ -33,6 +33,6 @@ a.sidebar-tickets:hover {
 
 li.wck-tickets a:hover
 {
-		background-color: #03c379;
-		color: #ccc;
+		background-color: #03c379 !important;
+		color: #ccc !important;
 	}
