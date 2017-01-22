@@ -3,8 +3,8 @@ a.sidebar-tickets {
 	box-shadow: none;
 	padding: .5rem 1rem;
 	font-size: 1.4rem;
-	color: #fff;
-	background: #b5b5b5;
+	color: #fff !important; 
+	background: #006f44;
 	border-radius: 3rem;
 }
 
