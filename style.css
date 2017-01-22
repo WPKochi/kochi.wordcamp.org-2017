@@ -36,3 +36,8 @@ li.wck-tickets a:hover
 		background-color: #03c379 !important;
 		color: #ccc !important;
 	}
+
+li.wck-tickets .current-menu-item > a, li.wck-tickets .current-menu-ancestor > a, li.wck-tickets li.current-menu-item > a, li.wck-tickets li.current-menu-ancestor > a {
+		background-color: #03c379 !important;
+		color: #ccc !important;
+}
