@@ -18,3 +18,15 @@ a.sidebar-tickets:hover {
 	background: #b5b5b5 none;
 	box-shadow: #232323 1px 1px 2px;
 }
+
+.main-navigation .primary-menu > li.wck-tickets {
+	padding: 0 1rem;
+	background: #006f44;
+	border-radius: 2rem;
+}
+
+.main-navigation .primary-menu > li.wck-tickets:before {
+	float: left;
+	line-height: 2;
+	margin-right: .5rem;
+}
