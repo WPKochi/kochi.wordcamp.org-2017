@@ -4,7 +4,7 @@ a.sidebar-tickets {
 	padding: .5rem 1rem;
 	font-size: 1.4rem;
 	color: #fff !important; 
-	background: #03c379;
+	background: #006f44;
 	border-radius: 3rem;
 }
 
@@ -20,7 +20,7 @@ a.sidebar-tickets:hover {
 }
 
 .main-navigation .primary-menu > li.wck-tickets {
-	background: #03c379;
+	background: #006f44;
 	padding: 0 1rem;
 
 }
@@ -33,11 +33,11 @@ a.sidebar-tickets:hover {
 
 li.wck-tickets a:hover
 {
-		background-color: #03c379 !important;
+		background-color: #006f44 !important;
 		color: #ccc !important;
 	}
 
 li.wck-tickets .current-menu-item {
-		background-color: #03c379 !important;
+		background-color: #006f44 !important;
 		color: #ccc !important;
 }
