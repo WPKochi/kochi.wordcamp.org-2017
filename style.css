@@ -30,3 +30,12 @@ a.sidebar-tickets:hover {
 	line-height: 2;
 	margin-right: .5rem;
 }
+
+.main-navigation .primary-menu > li.wck-tickets:hover > a 
+.main-navigation .primary-menu > li.wck-tickets a:hover,
+.main-navigation .primary-menu > li.wck-tickets .current-menu-item > a,
+{
+		background-color: #006f44;
+		padding: 0 1rem;
+		color: #fff;
+	}
