@@ -66,6 +66,7 @@ thead th {
 th {
 	padding: .4em;
 	text-align: left;
+	border: none;
 }
 
 tr {
