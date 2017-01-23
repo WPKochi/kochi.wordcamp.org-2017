@@ -99,42 +99,54 @@ width: 60%;
 @media only screen and (max-width: 767px) {
 
 	.tix-tickets-table{
-  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
- 	 	 font-size: 12px;
 		 width: 100%;
 	}
        	.tix-column-description{
 		width: 40%;
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
 	}
 	.tix-column-price{
 	 width: 20%;	
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
 	}
 	.tix-column-remaining{
 	 width: 20%;	
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
 	}
 	.tix-column-quantity{
 	 width: 20%;
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
 	}
 }
 
 @media only screen and (max-width: 479px) {
 
 .tix-tickets-table{
-  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
- 	 	 font-size: 12px;
 		 width: 100%;
 	}
        	.tix-column-description{
 		width: 40%;
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
 	}
 	.tix-column-price{
 	 width: 20%;	
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
 	}
 	.tix-column-remaining{
 	 width: 20%;	
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
 	}
 	.tix-column-quantity{
 	 width: 20%;
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
 	}
 
 }
