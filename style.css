@@ -128,7 +128,10 @@ width: 60%;
  	 	 font-size: 12px;
 	}
 
-.https://github.com/WPKochi/kochi.wordcamp.org-2017/blob/master/style.css
+	.tix-row-total{
+		 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
+	}
 }
 
 @media only screen and (max-width: 479px) {
@@ -161,5 +164,8 @@ width: 60%;
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
  	 	 font-size: 12px;
 	}
-
+	.tix-row-total{
+		 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
+	}
 }
