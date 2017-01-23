@@ -87,3 +87,8 @@ th:last-child,
 td:last-child {
 	padding-right: 0;
 }
+
+.tix-column-description
+{
+width: 500px;
+}
