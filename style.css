@@ -101,13 +101,13 @@ width: 60%;
 	.tix-tickets-table{
 		 width: 100%;
 	}
-        .tix-column-description{
-		width: 35%;
+       	.tix-column-description{
+		width: 32%;
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
  	 	 font-size: 12px;
 	}
 	.tix-column-price{
-	 width: 22%;	
+	 width: 25%;	
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
  	 	 font-size: 12px;
 	}
@@ -121,7 +121,6 @@ width: 60%;
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
  	 	 font-size: 12px;
 	}
-
 }
 
 @media only screen and (max-width: 479px) {
@@ -130,12 +129,12 @@ width: 60%;
 		 width: 100%;
 	}
        	.tix-column-description{
-		width: 35%;
+		width: 32%;
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
  	 	 font-size: 12px;
 	}
 	.tix-column-price{
-	 width: 22%;	
+	 width: 25%;	
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
  	 	 font-size: 12px;
 	}
