@@ -90,7 +90,7 @@ td:last-child {
 
 .tix-column-description
 {
-width: 600px;
+width: 500px auto;
 }
 
 .tix_tickets_table
