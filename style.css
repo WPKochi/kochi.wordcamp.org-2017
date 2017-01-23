@@ -88,7 +88,10 @@ td:last-child {
 	padding-right: 0;
 }
 
-
+.tix-column-description
+{
+width: 60%;
+}
 .tix_tickets_table
 {
 	border: none;
