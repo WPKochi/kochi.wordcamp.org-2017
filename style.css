@@ -116,6 +116,12 @@ width: 60%;
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
  	 	 font-size: 12px;
 	}
+	
+	.tix-column-per-ticket{
+		 width: 23%;	
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
+	}
 	.tix-column-quantity{
 	 width: 20%;
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
@@ -130,6 +136,11 @@ width: 60%;
 	}
        	.tix-column-description{
 		width: 32%;
+  	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+ 	 	 font-size: 12px;
+	}
+	.tix-column-per-ticket{
+		 width: 23%;	
   	 	 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
  	 	 font-size: 12px;
 	}
