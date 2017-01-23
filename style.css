@@ -74,6 +74,7 @@ tr {
 
 td {
 	padding: .4em;
+	border: none;
 }
 
 th:first-child,
